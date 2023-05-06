@@ -19,25 +19,11 @@ OpenAI's APIs enable developers to access state-of-the-art natural language proc
 Before exploring the use cases, make sure you have the following prerequisites:
 
 1. Sign up for an API key from [OpenAI](https://beta.openai.com/signup/).
-2. Install the OpenAI Python library:
-
-   ```bash
-   pip install openai
-   ```
-
-   **Set up your API key as an environment variable:**
-
-````bash
-export OPENAI_API_KEY="your-api-key-here"
-```bash
-git clone https://github.com/yourusername/openai-api-use-cases.git
-Navigate to the project directory and install the required dependencies:
+   2.Install
+   To install the OpenAI Node package, run the following command:
 
 ```bash
-cd openai-api-use-cases
-pip install -r requirements.txt
-
-````
+npm install openai
 
 ## Use Cases
 
@@ -69,3 +55,4 @@ We welcome contributions from the community! If you have a new use case, improve
 ## License
 
 The code and documentation in this repository are licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/openai-api-use-cases/blob/main/LICENSE) file for details.
+```
