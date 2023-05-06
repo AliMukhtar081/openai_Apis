@@ -8,7 +8,7 @@ openai.apiKey = process.env.OPENAI_API_KEY;
 const prompt = "Generate a tweet based on this context:";
 
 // Read the CSV file containing tweets and split into an array of contexts
-const tweets = fs.readFileSync('tweets.csv', 'utf-8').split('\n');
+const tweets = fs.readFileSync('tweet_csv.csv', 'utf-8').split('\n');
 
 // Generate text using GPT-3 for each context
 for (const context of tweets) {
