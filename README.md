@@ -41,7 +41,8 @@ The following use cases demonstrate the versatility of OpenAI's APIs:
 - Keyword Extraction: Extract relevant keywords and phrases from a given text, for use in search engines, SEO, or content analysis.
 - Paraphrasing: Rewrite text to convey the same meaning in a different way, e.g., simplifying complex text or creating multiple versions of the same content.
 
-## Directions to be Explored 
+## Directions to be Explored
+
 - AI Chatbot: Develop a conversational agent that can understand natural language and engage with users in a human-like manner.
 - Automatic Text Summarization: Create a tool that condenses long articles, documents, or books into shorter summaries.
 - Language Translation: Build a translation system that can convert text between multiple languages.
@@ -58,7 +59,6 @@ The following use cases demonstrate the versatility of OpenAI's APIs:
 - Style Transfer: Develop an application that can transfer the style of one image to another, preserving the content of the original image.
 - Image Generation: Create a tool that can generate new, unique images based on textual descriptions or input parameters.
 - Recommendation System: Build a system that can provide personalized recommendations for users, such as product suggestions, content recommendations, or personalized search results.
-
 
 Each use case will include example code, detailed explanations, and potential applications. Feel free to explore and experiment with the code provided.
 
