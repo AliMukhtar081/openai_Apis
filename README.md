@@ -24,6 +24,7 @@ Before exploring the use cases, make sure you have the following prerequisites:
 
 ```bash
 npm install openai
+```
 
 ## Use Cases
 
@@ -55,4 +56,7 @@ We welcome contributions from the community! If you have a new use case, improve
 ## License
 
 The code and documentation in this repository are licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/openai-api-use-cases/blob/main/LICENSE) file for details.
+
+```
+
 ```
